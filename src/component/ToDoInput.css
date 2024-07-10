@@ -1,0 +1,24 @@
+#input{
+  text-align:center;
+}
+#input h1{
+  font-family:sans-serif;
+}
+#input input{
+  height:25px;
+  width:250px;
+  border-radius:4px;
+}
+#input button{
+  padding:8px;
+  width:90px;
+  background-color:#148f33;
+  color:white;
+  border-radius:4px;
+  border: 1px solid #148f33;
+}
+#input button:hover{
+  background-color:#11ff00;
+  color:black;
+  border: 1px solid #148f33;
+}
